@@ -1,5 +1,4 @@
----
-Our Research
+# Our Research
 
 Our group aims to help understand the brain and mind by building computational models. We focus on building artificial neural network models for cognition. Our research style is influenced by neural circuit models from neuroscience, deep neural networks from machine learning, and normative models from cognitive science.
 
@@ -10,17 +9,3 @@ Our long-term goals are to
   * build better artificial intelligence and life using insights from the brain
   * help develop treatment of psychiatric disorders based on multi-scale understanding of the brain
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
----
