@@ -10,7 +10,7 @@ Our long-term goals are to
   * build better artificial intelligence and life using insights from the brain
   * help develop treatment of psychiatric disorders based on multi-scale understanding of the brain
 
-
+# Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
